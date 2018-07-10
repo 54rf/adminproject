@@ -77,9 +77,9 @@ export default {
     overflow: auto;
   }
   /*滚动条*/
-  ::-webkit-scrollbar {
-    width: 10px; /*滚动条宽度*/
-    height: 10px; /*滚动条高度*/
-  }
+  /*::-webkit-scrollbar {
+    width: 10px; 
+    height: 10px; 
+  }*/
 }
 </style>
